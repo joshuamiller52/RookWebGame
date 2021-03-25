@@ -1,0 +1,46 @@
+.card-container{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    button{
+        margin-top: 8px;
+        margin-bottom:16px;
+        width: 50%;
+    }
+
+}
+
+#start_card{
+    width: 25%;
+}
+
+#header{
+    padding: 8px;
+}
+
+.center-text{
+    text-align: center;
+}
+
+.center-content{
+    display: flex;
+    justify-content: center;
+}
+
+.logo-container{
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 16px;
+    #logo{
+        display: flex;
+        flex-shrink: 1;
+        max-height: 100%;
+        max-width: 50%;
+        width: auto;
+        height: auto;
+    }
+}
+

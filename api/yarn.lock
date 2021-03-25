@@ -93,7 +93,7 @@
   dependencies:
     "@types/node" "*"
 
-"@types/socket.io@^4.0.0":
+"@types/socket.io@^2.1.13":
   version "2.1.13"
   resolved "https://registry.yarnpkg.com/@types/socket.io/-/socket.io-2.1.13.tgz#b6d694234e99956c96ff99e197eda824b6f9dc48"
   integrity sha512-JRgH3nCgsWel4OPANkhH8TelpXvacAJ9VeryjuqCDiaVDMpLysd6sbt0dr6Z15pqH3p2YpOT3T1C5vQ+O/7uyg==

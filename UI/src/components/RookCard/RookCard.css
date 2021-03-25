@@ -1,0 +1,16 @@
+.card{
+    display: flex;
+    height: 50px;
+    width: 50px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+}
+.card-media{
+    display: flex;
+    flex-shrink: 1;
+    max-height: 100%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+}
